@@ -45,14 +45,12 @@ Data Engineering, Python, SQL, and building data-driven solutions.
 - Created KPIs and visualizations for sales and customer insights
 - Used data cleaning and transformation techniques to prepare the dataset
 
-🔗 [View Project]https://github.com/unkwondriver-08/Excel-projects-/tree/main/Sales%20Dashboard
+🔗 [View Project](https://github.com/unkwondriver-08/Excel-projects-/tree/main/Sales%20Dashboard)
 
-## 📊 GitHub Stats
+📊 **GitHub Stats**
 
-![Girdhari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=unkwondriver-08&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=unkwondriver-08&layout=compact&theme=tokyonight)
-
+![Girdhari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=unkwondriver-08&show_icons=true&theme=radial)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=unkwondriver-08&layout=compact&theme=radial)
 
 
 ## 🤝 Connect With Me
