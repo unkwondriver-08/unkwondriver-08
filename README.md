@@ -34,3 +34,21 @@ Data Engineering, Python, SQL, and building data-driven solutions.
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
+## 🚀 Featured Projects
+### 📊 Sales Analytics Dashboard
+
+**Excel | Power BI | SQL**
+
+- Built an interactive dashboard to analyze business performance
+- Created KPIs and visualizations for sales and customer insights
+- Used data cleaning and transformation techniques to prepare the dataset
+
+🔗 [View Project]https://github.com/unkwondriver-08/Excel-projects-/tree/main/Sales%20Dashboard
+
+## 📊 GitHub Stats
+
+![Girdhari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=unkwondriver-08&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=unkwondriver-08&layout=compact&theme=tokyonight)
