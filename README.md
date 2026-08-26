@@ -37,15 +37,27 @@ Data Engineering, Python, SQL, and building data-driven solutions.
 
 
 ## 🚀 Featured Projects
+
+### 📱 Motorola Sales Dashboard
+
+**Power BI | DAX | Power Query | Data Modeling**
+- Built an interactive Power BI dashboard to analyze Motorola's sales performance across cities, mobile models, payment methods, and time periods
+- Created KPI cards and interactive visualizations to track sales, units sold, and customer ratings
+- Used Power Query and DAX for data transformation, modeling, and business metric calculations
+- Analyzed city-wise sales, mobile model performance, payment methods, and monthly/day-wise sales trends
+- Added interactive slicers, drill-downs, and map visualizations to enable detailed business analysis
+
+🔗 [View Project](https://github.com/unkwondriver-08/PowerBI-Projects)
+
 ### 📊 Sales Analytics Dashboard
 
-**Excel | Power BI | SQL**
-
+**Excel | Pivot Tables | Data Analysis | Dashboard**
 - Built an interactive dashboard to analyze business performance
 - Created KPIs and visualizations for sales and customer insights
 - Used data cleaning and transformation techniques to prepare the dataset
 
 🔗 [View Project](https://github.com/unkwondriver-08/Excel-projects-/tree/main/Sales%20Dashboard)
+
 
 ## 📊 GitHub Stats
 
