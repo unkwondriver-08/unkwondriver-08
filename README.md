@@ -41,7 +41,7 @@ Data Engineering, Python, SQL, and building data-driven solutions.
 ### 📱 Motorola Sales Dashboard
 
 **Power BI | DAX | Power Query | Data Modeling**
-- Built an interactive Power BI dashboard to analyze Motorola's sales performance across cities, mobile models, payment methods, and time periods
+- Built an interactive Power BI dashboard to analyze Motorola's sales performance across cities, mobile models, payment methods, etc.
 - Created KPI cards and interactive visualizations to track sales, units sold, and customer ratings
 - Used Power Query and DAX for data transformation, modeling, and business metric calculations
 - Analyzed city-wise sales, mobile model performance, payment methods, and monthly/day-wise sales trends
